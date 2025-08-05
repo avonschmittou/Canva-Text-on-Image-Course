@@ -1508,6 +1508,7 @@
       <string id="acc_previous_visual">Previous (Ctrl+Alt+,)</string>
       <string id="acc_replay">Replay (Ctrl+Alt+R)</string>
       <string id="acc_search_input">search</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
       <string id="acc_settings">Settings</string>
       <string id="acc_skipnavigation">Back to top</string>
       <string id="acc_slide_progress">slide progress</string>
@@ -1652,6 +1653,7 @@
           <links>
             <slidelink slideid="_player.6oHZK0VfJzZ.5nSVeyvZPi2" displaytext="Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6oHZK0VfJzZ.64JNAyLmZ9N" displaytext="Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.6oHZK0VfJzZ.6R9cdtfF17V" displaytext="Login Video" expand="false" type="slide" />
             <slidelink slideid="_player.6oHZK0VfJzZ.6oS3YpNvAEu" displaytext="Log in to Canva" expand="false" type="slide" />
             <slidelink slideid="_player.6oHZK0VfJzZ.5VzfbSg3sv2" displaytext="Accepted File Types" expand="false" type="slide" />
             <slidelink slideid="_player.6oHZK0VfJzZ.5ucHvCyKVbk" displaytext="Uploading A File" expand="false" type="slide" />
